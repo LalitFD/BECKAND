@@ -1,5 +1,6 @@
 
 import dotenv from 'dotenv';
+dotenv.config();
 
 
 import express from 'express'; // ES6 syntax se import
